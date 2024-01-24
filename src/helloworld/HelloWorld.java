@@ -5,7 +5,7 @@
 package helloworld;
 
 /**
- *
+ *added few comments on 24 jan at 1:53PM
  * @author felix
  */
 public class HelloWorld {
@@ -15,6 +15,7 @@ public class HelloWorld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Student[] students= new Student[3];
     }
     
 }
